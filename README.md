@@ -2,6 +2,7 @@
 
 
 Frequently Asked Questions (FAQ)
+
 #(0) How do I use IGuard?
 
 Enable the IGuard firewall using the switch in IGuard's action bar
@@ -12,6 +13,8 @@ You can use Settings > Defaults to change from block/blacklist mode (disable Blo
 
 Allowed (internet access permitted): greenish (teal) / blue / purple / gray
 Blocked (internet access denied): reddish (salmon) / orange / yellow / amber
+
+
 (1) Can IGuard completely protect my privacy?
 
 No - nothing can completely protect your privacy. IGuard will do its best, but it is limited by the fact it must use the Android VPN service. This is the trade-off required to make a firewall which does not require root access. The firewall can only start when Android "allows" it to start, so it will not offer protection during early boot-up (although you can disable your network before rebooting). Also, the Android VPN service needs to be restarted to apply new rules when connectivity has changed or when the screen is being turned on or off. It will, however, be much better than nothing.
