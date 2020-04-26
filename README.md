@@ -1,5 +1,5 @@
 ##IGuard
-Please scroll down if you want to ask a question, request a feature, or report a bug.
+
 
 Frequently Asked Questions (FAQ)
 #(0) How do I use IGuard?
